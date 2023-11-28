@@ -5,7 +5,9 @@ $(".yes-button").click(function() {
     
     
 });
-
+$(".restart123").click(function(){
+    location.reload();
+});
 $(".no-button").click(function() {
     $(".firstImage").hide();
     $(".title").hide();
