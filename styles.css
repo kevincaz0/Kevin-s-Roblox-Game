@@ -4,7 +4,10 @@ html {
     width: 100%;
     
 }
-.restart1{}
+.restart123{
+    width:120px;
+    display:none;
+}
 body {
     color: white;
     text-align: center;
